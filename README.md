@@ -1,3 +1,2 @@
-# Getting Started
-
-Instale esse projeto no seu localhost e navegue nos exercícios, boas correções. 😂😍
+## Descrição
+  Esse repositório guarda algumas questões resolvidas durante a disciplina de programação WEB no Curso Técnico em Informática do Instituto Federal de Ciência e Tecnologia de Sergipe.
